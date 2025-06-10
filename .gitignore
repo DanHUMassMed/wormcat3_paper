@@ -1,7 +1,8 @@
-ahringer_lab/
+source_data/
 derived_data/
+
+ahringer_lab/
 murphy_lab/
-original_source_data/
 walker_lab/
 wang_lab/
 
